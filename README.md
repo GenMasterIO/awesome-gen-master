@@ -28,4 +28,4 @@ The collection of the stuff we found
 
 ### Other
 * [Dify - Backend as a Service and LLMOps](https://github.com/langgenius/dify)
-* 
+* [LLM API Price Calculator](https://docsbot.ai/tools/gpt-openai-api-pricing-calculator)
