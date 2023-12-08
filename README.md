@@ -22,7 +22,7 @@ The collection of the stuff we found
 ## Image Generation
 
 * [novita.ai](https://novita.ai/)
-
+* [segmind](https://www.segmind.com)
 
 ## Image Storage/Hosting
 
