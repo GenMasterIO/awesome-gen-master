@@ -7,6 +7,7 @@ The collection of the stuff we found
 
 * [screenshot-to-code](https://github.com/abi/screenshot-to-code) To generate frontend code from images
 * [tamagui](https://tamagui.dev/) Web & React-native UI library
+* [nextui](https://nextui.org/) Web UI library. Design itself is good but doesn't have react-native lib yet.
 
 
 # Relevant products
